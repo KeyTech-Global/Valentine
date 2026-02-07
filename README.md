@@ -188,5 +188,5 @@ Whether you're tech-savvy or just looking for a cute way to express your feeling
 
 ---
 
-📅 **Last updated**: February 2024
+📅 **Last updated**: February 2026
 🌐 **Live Demo**: [https://keytech-global.github.io/Valentine/](https://keytech-global.github.io/Valentine/)
